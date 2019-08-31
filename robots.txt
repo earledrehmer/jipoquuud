@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zeethohrei.airlockbrowser.com/sitemap.xml
